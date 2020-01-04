@@ -8,8 +8,8 @@ class AddNumbers
       System.out.println("Enter two integers to calculate their sum");
       Scanner in = new Scanner(System.in);
      
-      x = in.nextInt();
-      y = in.nextInt();
+      x = 65;
+      y = 35;
       z = x + y;
      
       System.out.println("Sum of the integers = " + z);
